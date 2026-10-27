@@ -24,3 +24,7 @@ An original, brand-neutral HTML/CSS collection of components, blocks, full-width
 - No tracking, remote JS, background GitHub Actions, third-party downloads or copying of Sabpuja branded assets.
 - Registry is for **our UI artifacts**, separate from `WebDesignToolkit/catalog` of external open-source projects.
 See [quality](./docs/QUALITY.md) and [provenance](./docs/PROVENANCE.md).
+
+## Agency Component Foundry v0.2
+
+Nine families, 27 new variants, 44 total draft library entries. See [Foundry contract](./docs/FOUNDRY.md), [canonical registry](./registry.json), and optional booking-demo-only [local interactions](./scripts/interactions.js). No fabricated product reviews, price claims, or real appointment submissions.
